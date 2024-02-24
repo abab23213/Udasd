@@ -1,0 +1,23 @@
+[
+  {
+    "enable": true,
+    "phone": "17729788535",
+    "password": "lcx123321",
+    "keepLogin": false,
+    "token": "如果keepLogin为false就不填",
+    "userId": "如果keepLogin为false就不填",
+    "planId": "如果keepLogin为false就不填",
+    "randomLocation": true,
+    "user-agent": "null",
+    "signCheck": true,
+    "country": "中国",
+    "province": "河南省",
+    "city": "郑州市",
+    "area": "郑州高新技术开发区",
+    "desc": "金棱路33号",
+    "type": "android",
+    "address": "河南省郑州市郑州高新技术开发区金棱路",
+    "longitude": "113.55766653107455",
+    "latitude": "34.80396669794438",
+    "pushKey": "b2906268a5094a13ae9d002d87d88335"
+  }
